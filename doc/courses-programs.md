@@ -88,7 +88,7 @@ In this example we're sending a GET request to `/courses/schema/number`
 				"limit": "5"
 			}
 
-## Dependencies [/depenedencies/{id}]
+## Dependencies [/courses/dependencies/{id}]
 
 ## View [GET]
 
